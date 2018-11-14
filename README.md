@@ -4,7 +4,7 @@
 # TVContacts.Rdata
  This R data object contains two network objects (depends on the network package from statnet). 
 
-1) GraysAnatomy Gray's Anatomy dataset of every on-screen or discussed romantic/sexual contact between characters in the first six  seasons of the show. Sourced from Ben Lind's blog: http://badhessian.org/author/benjamin/
+1) GreysAnatomy Grey's Anatomy dataset of every on-screen or discussed romantic/sexual contact between characters in the first six  seasons of the show. Sourced from Ben Lind's blog: http://badhessian.org/author/benjamin/
 
 2) TheLWord The L Word dataset representing every on-screen or discussed romantic/sexual contact between characters of the entire  series of the show. Sourced from archival methods. 
 
